@@ -82,7 +82,8 @@ body {
 .music-player i {
     font-size: 70px; 
     margin-right: 10px; 
-    margin-top: 10px; 
+    margin-top: 10px;
+    size:20px;
 }
 
 #song-duration {
